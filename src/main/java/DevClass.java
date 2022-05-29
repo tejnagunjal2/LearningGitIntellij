@@ -10,5 +10,7 @@ public class DevClass {
         System.out.println("Added to check revert");
 
         System.out.println("Added to check revert2");
+
+        System.out.println("Added to check revert3");
     }
 }

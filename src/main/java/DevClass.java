@@ -8,5 +8,7 @@ public class DevClass {
         System.out.println("Added logic for defect 2");
 
         System.out.println("Added to check revert");
+
+        System.out.println("Added to check revert2");
     }
 }
